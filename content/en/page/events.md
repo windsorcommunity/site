@@ -1,9 +1,9 @@
 ---
 author: Windsor Polyamory
-title: About Us
+title: Events
 date: 2022-11-25
 description:
-keywords: ["about-us"]
+keywords: ["events"]
 type: about
 ---
 
