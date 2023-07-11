@@ -1,10 +1,10 @@
 ---
 author: "Windsor Polyamory"
-title: "Event rules"
-date: 2022-11-24
-description: 'Event rules before attending your first "Slosh"'
+title: "Upcoming events"
+date: 2022-11-25
+description: 'Click here to view our next upcoming events!'
 tags: ["blog"]
-thumbnail: /banner/event.jpg
+thumbnail: /banner/location.jpg
 ---
 
-TO BE FILLED
+TO BE FILLED. Google calendar embedded?
