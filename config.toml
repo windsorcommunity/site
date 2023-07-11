@@ -12,9 +12,10 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Windsor Polyamory Group"
-      introSubtitle = "Located in in Windsor, Ontario, Canada. Join our small (but growing!) community. Get answers to questions such as: \"What's Polyarmory?\""
-      introPhoto = "/picture.jpg"
-      logo = "/logo.png"
+      introSubtitle = "Located in in Windsor, Ontario, Canada. Join our small (but growing!) community. Get answers to questions such as: \"What's Polyamory?\""
+      introPhoto = "/flag.png"
+      logo = "/flag.png"
+
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -43,7 +44,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2022 - Windsor Polyamory · All rights reserved"
+  copyright = "Copyright © 2023 - Windsor Polyamory · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -67,9 +68,9 @@ DefaultContentLanguageInSubdir = true
   title = "Chat with us!"
   description = "Join us for a chat or follow Windsor Polyamory"
   discord = "https://discord.com/invite/X82RtZP"
-  facebook = "https://www.facebook.com/WindsorPolyamory/"
-  instagram = "https://www.instagram.com/windsorpolyamory"
-  twitter = "https://twitter.com/WindsorPoly"
+  #facebook = "https://www.facebook.com/WindsorPolyamory/"
+  #instagram = "https://www.instagram.com/windsorpolyamory"
+  #twitter = "https://twitter.com/WindsorPoly"
 
 [[menu.main]]
   name = "About"

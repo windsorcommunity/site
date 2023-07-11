@@ -4,7 +4,7 @@ title: "Upcoming events"
 date: 2022-11-25
 description: 'Click here to view our next upcoming events!'
 tags: ["blog"]
-thumbnail: /banner/fionn.jpg
+thumbnail: /banner/location.jpg
 ---
 
 TO BE FILLED. Google calendar embedded?
