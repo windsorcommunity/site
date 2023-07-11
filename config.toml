@@ -29,7 +29,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Events"
-        url = "page/events/"
+        url = "blog/events/"
         weight = 3
 
     [[languages.en.menu.main]]
