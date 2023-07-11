@@ -9,4 +9,4 @@ thumbnail: /banner/discord.jpg
 
 Come and chat with us!
 
-Join our chat here: https://discord.com/invite/X82RtZP
+Join our chat here: https://discord.gg/ECWgVWEZ

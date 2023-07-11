@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Chat on Discord"
-        url = "https://discord.com/invite/X82RtZP"
+        url = "https://discord.gg/ECWgVWEZ"
         weight = 4
 
 [params]
@@ -67,7 +67,7 @@ DefaultContentLanguageInSubdir = true
   # Global params common for both languages
   title = "Chat with us!"
   description = "Join us for a chat or follow Windsor Polyamory"
-  discord = "https://discord.com/invite/X82RtZP"
+  discord = "https://discord.gg/ECWgVWEZ"
   #facebook = "https://www.facebook.com/WindsorPolyamory/"
   #instagram = "https://www.instagram.com/windsorpolyamory"
   #twitter = "https://twitter.com/WindsorPoly"
