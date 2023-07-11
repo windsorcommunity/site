@@ -2,6 +2,7 @@ baseurl = "https://windsorcommunity.github.io/site"
 metaDataFormat = "yaml"
 title = "Windsor Polyamory"
 theme = "blist"
+enableRobotsTXT: true
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
