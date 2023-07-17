@@ -2,7 +2,6 @@ baseurl = "https://windsorpolyamory.com"
 metaDataFormat = "yaml"
 title = "Windsor Polyamory"
 theme = "blist"
-enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
