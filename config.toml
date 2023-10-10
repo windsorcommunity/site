@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Chat on Discord"
-        url = "https://discord.gg/ECWgVWEZ"
+        url = "https://discord.gg/8kRrdKGWG5"
         weight = 4
 
 [params]
